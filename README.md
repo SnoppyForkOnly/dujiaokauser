@@ -2,11 +2,12 @@
 
 
 
-# 打赏
+# 交流：
+(https://t.me/dujiaouser)
 
 
 ## :bulb:独角数卡2.0.6用户版本介绍
-这是一份基于[独角数卡](https://github.com/assimon/dujiaoka)基础上修改的版本。此版本在部分功能上与原版有所修改，故请以本仓库的Wiki/Issues得到的反馈为准。
+这是一份基于[独角数卡](https://github.com/assimon/dujiaoka)和 (https://github.com/hiouttime/dujiaoka)基础上参考修改的版本。此版本在部分功能上与原版有所修改，故请以本仓库的Wiki/Issues得到的反馈为准。
 
 <br>以下是目前比较明显的更改：<br>
 -功能列表：<br>
