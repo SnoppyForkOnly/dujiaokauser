@@ -1,11 +1,6 @@
-![](https://files.mdnice.com/user/39773/dc2143d7-422a-4fe3-8bcb-692e8c6cbd9a.png)
 
-<p align="center">
-<img alt="GitHub" src="https://img.shields.io/github/license/outtimes/dujiaoka?style=for-the-badge">
-<img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/outtimes/dujiaoka?label=version&style=for-the-badge">
-<img alt="PHP Version" src="https://img.shields.io/static/v1?label=PHP&message=8.0.2&style=for-the-badge">
-<img alt="Telegram" src="https://img.shields.io/static/v1?label=Telegram&logo=Telegram&message=@dujiaoka&style=for-the-badge&color=blue&&link=https://t.me/dujiaoka">
-</p>
+
+
 
 # 打赏
 
