@@ -1,7 +1,6 @@
 # dujiaokauser
 独角发卡2.0.6二开用户版，只适配hyper模板
-交流群：https://t.me/dujiaouser
-本程序开源，市场上低价贩卖的一律是这个程序！
+
 
 
 
